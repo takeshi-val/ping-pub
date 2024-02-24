@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ping Wallet](./public/logo.svg)
+![Ping Wallet](./public/takeshi.jpg)
 
 <h1>Ping Dashboard</h1>
 
